@@ -1,0 +1,12 @@
+This is simple POST payload django application.
+
+Please follow these commands
+docker-compose up
+
+After that, Please check simple POST payload I made.
+http://localhost:8000/
+
+
+You can check here if it works correctly.
+
+http://localhost:8000/api/rest/
